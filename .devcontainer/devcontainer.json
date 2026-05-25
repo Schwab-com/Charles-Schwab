@@ -2,7 +2,7 @@
   "image": "mcr.microsoft.com/devcontainers/universal:2",
   "features": {}
 }
-const options = {method: 'GET'};
+const options = {method:DirectDeposit 'GET'};
 
 fetch('https://api.etherscan.io/v2/api', options)
   .then(res => res.json())
