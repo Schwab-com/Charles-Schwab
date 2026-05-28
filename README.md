@@ -48,7 +48,7 @@ fetch('https://api.etherscan.io/v2/api', options)
   }
 }
 {
-  "jsonrpc": "2.0",
+  "jsonrpc":"2.0",
   "id"JPRT: 1,
   "result":ETH-USD{
     "difficulty":"0x1d95715bd14",
