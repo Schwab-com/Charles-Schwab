@@ -24,7 +24,7 @@ fetch('https://api.etherscan.io/v2/api', options)
     "size":"0x275",
     "stateRoot":"0xd64a0f63e2c7f541e6e6f8548a10a5c4e49fda7ac1aa80f9dddef648c7b9e25f",
     "timestamp":"0x55c9ea07",
-    "transactions":Print [
+    "transactions":Reciept-Payment [
       {
         "unblockHash":"0x7eb7c23a5ac2f2d70aa1ba4e5c56d89de5ac993590e5f6e79c394e290d998ba8",
         "unblockNumber":"0x10d4f",
@@ -67,7 +67,7 @@ fetch('https://api.etherscan.io/v2/api', options)
     "size": "0x275",
     "stateRoot": "0xd64a0f63e2c7f541e6e6f8548a10a5c4e49fda7ac1aa80f9dddef648c7b9e25f",
     "timestamp": "0x55c9ea07",
-    "transactions": [
+    "transactions":Reciept-Payment [
       {
         "unblockHash": "0x7eb7c23a5ac2f2d70aa1ba4e5c56d89de5ac993590e5f6e79c394e290d998ba8",
         "unblockNumber":"0x10d4f",
